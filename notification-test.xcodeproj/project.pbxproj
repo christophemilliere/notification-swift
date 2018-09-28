@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D994E83C215E506700993240 /* pepsi-icon-12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D994E83B215E506700993240 /* pepsi-icon-12.jpg */; };
 		D9CCFEA2215CF7C800CF498D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CCFEA1215CF7C800CF498D /* AppDelegate.swift */; };
 		D9CCFEA4215CF7C800CF498D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CCFEA3215CF7C800CF498D /* ViewController.swift */; };
 		D9CCFEA7215CF7C800CF498D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9CCFEA5215CF7C800CF498D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D994E83B215E506700993240 /* pepsi-icon-12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pepsi-icon-12.jpg"; sourceTree = "<group>"; };
 		D9CCFE9E215CF7C800CF498D /* notification-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "notification-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9CCFEA1215CF7C800CF498D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9CCFEA3215CF7C800CF498D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		D9CCFEA0215CF7C800CF498D /* notification-test */ = {
 			isa = PBXGroup;
 			children = (
+				D994E83B215E506700993240 /* pepsi-icon-12.jpg */,
 				D9CCFEA1215CF7C800CF498D /* AppDelegate.swift */,
 				D9CCFEA3215CF7C800CF498D /* ViewController.swift */,
 				D9CCFEA5215CF7C800CF498D /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				D9CCFEAC215CF7CA00CF498D /* LaunchScreen.storyboard in Resources */,
 				D9CCFEA9215CF7CA00CF498D /* Assets.xcassets in Resources */,
 				D9CCFEA7215CF7C800CF498D /* Main.storyboard in Resources */,
+				D994E83C215E506700993240 /* pepsi-icon-12.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
